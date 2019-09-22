@@ -1,0 +1,19 @@
+{
+  "name": "supply-chain-project-nano-degree-osama-bari",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Osama Bari <osamabari@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "2.4.0"
+  },
+  "dependencies": {
+    "truffle-hdwallet-provider": "^1.0.5"
+  }
+}
